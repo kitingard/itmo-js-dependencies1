@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js-dependencies1",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
